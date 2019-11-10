@@ -1,3 +1,9 @@
+# React noughts and crosses app
+
+This is a tutorial from <reactjs.org>.
+
+Details: <https://reactjs.org/tutorial/tutorial.html>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
